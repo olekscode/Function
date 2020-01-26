@@ -1,6 +1,17 @@
 # Function
 Reification of a mathematical function as an object. Allows  function arithmetics and function composition.
 
+## Installation
+
+To install Functon, go to the Playground (Ctrl+OW) in your Pharo image and execute the following Metacello script (select it and press Do-it button or Ctrl+D):
+
+```Smalltalk
+Metacello new
+  baseline: 'Function';
+  repository: 'github://olekscode/Function/src';
+  load.
+```
+
 ## How to use?
 
 Functions can be defined using block closures:
