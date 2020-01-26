@@ -1,7 +1,7 @@
 # Function
 
 [![Build Status](https://travis-ci.org/olekscode/Function.svg?branch=master)](https://travis-ci.org/olekscode/Function)
-[![Build status](https://ci.appveyor.com/api/projects/status/nxwn8odf3q2fafo2?svg=true)](https://ci.appveyor.com/project/olekscode/function)
+[![Build status](https://ci.appveyor.com/api/projects/status/2fcibtphyy2tgk42?svg=true)](https://ci.appveyor.com/project/olekscode/function)
 [![Coverage Status](https://coveralls.io/repos/github/olekscode/Function/badge.svg?branch=master)](https://coveralls.io/github/olekscode/Function?branch=master)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/olekscode/Function/master/LICENSE)
 [![Pharo version](https://img.shields.io/badge/Pharo-7.0-%23aac9ff.svg)](https://pharo.org/download)
